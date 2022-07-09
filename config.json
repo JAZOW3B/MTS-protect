@@ -1,0 +1,37 @@
+{
+  "token": "token bot",
+
+  "owner": "ton id",
+
+  "prefix": "ton prefix",
+
+  "logs": "nom du channel logs",
+
+  "emojiAttention": "<a:Attention:972470295862591580>",
+
+  "emojiValidé": "<a:valid:980526039568613416>",
+
+  "emojiWait": "<:roleiconsupportteam:980526554046165013>",
+
+  "networkVert": "<a:verifygreen:980526923610468442>",
+
+  "networkRouge": "<a:verifyred:980527131916374106>",
+
+  "emojiON": "`<:discordcheck:980527984207360141>`",
+
+  "emojiOFF": "`<a:blurpleverified:972470288627404810>`",
+
+  "emojiVocal": "<a:IconTextAnnouncement:972470274991743036>",
+
+  "emojiDeaf": "<a:IconTextAnnouncement:972470274991743036>",
+
+  "blue": "194EDB",
+
+  "red": "CB0B0B",
+
+  "cooldownMessageTime": "3000",
+
+  "muteSpamTime": "3600000",
+
+  "linkMuteTime": "3600000"
+}
